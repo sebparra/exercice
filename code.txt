@@ -1,0 +1,13 @@
+code 
+
+
+j ai utilise code
+
+
+mkdir pour creer un dossier
+git init pour le placer en master
+git add fichier
+git commit -m"message"
+
+voila
+
